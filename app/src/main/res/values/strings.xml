@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UnitConverterApplication</string>
+    <string name="convert">Convert</string>
+    <string name="degrees_symbol">°</string>
+    <string name="_0">0</string>
+
+    <string-array name="temp_names1">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="temp_names2">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
